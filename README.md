@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirui-brian.
 - 👀 I’m interested in software development and cybersecurity.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Kotlin.
 - 💞️ I’m looking to collaborate on projects on this language especially on software development and cybersecurity.
 - 📫 How to reach me Twitter: @kiruibbrian, Github: https://github.com/Kirui-brian, LinkedIn: https://www.linkedin.com/kibet-brian
 
