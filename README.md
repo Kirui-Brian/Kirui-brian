@@ -1,5 +1,10 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Kirui-brian/count.svg" />
+</p>
+
 - 👋 Hello,
-   I am Kirui Brian.
+   My name is Kirui Brian.
 - 👀 I’m interested in software development and cybersecurity.
 - 🌱 I’m currently learning Python alongside perfecting on web development (HTML, CSS, JavaScript, Vue, Quasar, Node, Fastify, and Express).
 - 💞️ I’m looking to collaborate on projects on this language especially on software development and cybersecurity. Hit me up, we work together.
