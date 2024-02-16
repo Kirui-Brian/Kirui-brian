@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Python alongside perfecting on web development (HTML, CSS, JavaScript, Vue, Quasar, Node, Fastify, and Express).
 - 💞️ I’m looking to collaborate on projects on this language especially on software development and cybersecurity. Hit me up, we work together.
 - 📫 How to reach me: <br>
-Twitter: [@kiruibbrian](https://twitter.com/kiruibriann), <br>
+Twitter: [@KiruiBriann](https://twitter.com/KiruiBriann), <br>
 Github: https://github.com/Kirui-brian, <br>
 LinkedIn: https://www.linkedin.com/kibet-brian <br>
 https://linktr.ee/kiru.i
