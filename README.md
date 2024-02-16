@@ -1,7 +1,9 @@
+<!--
 <p align="center"> 
-  Visitor count<br>
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/Kirui-brian/count.svg" />
-</p>
+</p> 
+-->
 
 - 👋 Hello,
    My name is Kirui Brian.
