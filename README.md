@@ -6,9 +6,9 @@
 
 - 👋 Hello, buddy<br>
    My name is Kirui Brian.
-- 👀 I’m interested in software development and cybersecurity.
-- 🌱 I’m currently learning Python alongside perfecting on web development (HTML, CSS, JavaScript, Vue, Quasar, Node, Fastify, and Express).
-- 💞️ I’m looking to collaborate on projects on this language especially on software development and cybersecurity. Hit me up, we work together.
+- 👀 I am interested in software development and cybersecurity.
+- 🌱 I am currently learning Python alongside perfecting on web development (HTML, CSS, JavaScript, Vue, Quasar, Node, Fastify, and Express).
+- 💞️ I am looking to collaborate on projects on this language especially on software development and cybersecurity. Hit me up, we work together.
 - 📫 How to reach me: <br>
 [X:](https://x.com/KiruiBriann) <br>
 [Github:](https://github.com/Kirui-brian) <br>
