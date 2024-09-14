@@ -1,7 +1,7 @@
 
 <p align="center"> 
   Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/Kirui-brian/count.svg" />
+  <img src="https://profile-counter.glitch.me/Kirui-Brian/count.svg" />
 </p>
 
 - 👋 Hello, buddy<br>
