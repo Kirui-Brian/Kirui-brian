@@ -6,10 +6,11 @@
 
 - 👋 Hello, buddy<br>
    My name is Kirui Brian.
-- 👀 I am interested in software development and cybersecurity.
-- 🌱 I am currently learning Python alongside perfecting on web development (HTML, CSS, JavaScript, Vue, Quasar, Node, Fastify, and Express).
-- 💞️ I am looking to collaborate on projects on this language especially on software development and cybersecurity. Hit me up, we work together.
+- 👀 I am interested in secure software development and cybersecurity.
+- 🌱 I am currently learning Python alongside perfecting on web development (HTML, CSS, JavaScript, Vue, Quasar, Node, Fastify, Laravel, and Express).
+- 💞️ I am looking to collaborate on projects and research on information security especially on Human Centered Security, Usable Security, & Privacy. Hit me up, we work together.
 - 📫 How to reach me: <br>
+[Portfolio:](https://kirui-brian.github.io/) <br>
 [X:](https://x.com/KiruiBriann) <br>
 [Github:](https://github.com/Kirui-brian) <br>
 [LinkedIn:](https://www.linkedin.com/in/kibet-brian/) <br>
