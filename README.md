@@ -20,6 +20,12 @@ You can click the Preview link to take a look at your changes.
 --->
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kirui-brian&show_icons=true&locale=en&layout=compact" alt="Kirui-brian" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,vue,nodejs,express,laravel" alt="Skills" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kirui-brian&show_icons=true&locale=en" alt="Kirui-brian" /></p>
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Kirui-brian&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kirui-brian&show_icons=true&locale=en&cache_seconds=1800" alt="GitHub Stats" />
+</p>
