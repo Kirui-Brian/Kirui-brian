@@ -1,7 +1,5 @@
-
 <p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/Kirui-Brian/count.svg" />
+  <img src="https://hits.sh/github.com/Kirui-brian/Kirui-brian.svg?view=today-total&style=flat-square&label=Visitors+(Today%20%7C%20Total)&color=007ec6" alt="Visitor Count" />
 </p>
 
 - 👋 Hello, buddy<br>

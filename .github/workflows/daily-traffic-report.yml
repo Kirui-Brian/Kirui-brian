@@ -1,0 +1,40 @@
+name: Daily GitHub Traffic Digest
+
+on:
+  schedule:
+    # Runs at 23:50 UTC every day
+    - cron: '50 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  traffic-report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Run Daily Traffic Reporter
+        env:
+          # Use TRAFFIC_TOKEN (Personal Access Token) if set, fallback to GITHUB_TOKEN
+          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST || 'smtp.gmail.com' }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT || '465' }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          TO_EMAIL: ${{ secrets.NOTIFICATION_EMAIL }}
+          TRACKED_REPOS: ${{ secrets.TRACKED_REPOS }}
+        run: python scripts/traffic_digest.py
+
